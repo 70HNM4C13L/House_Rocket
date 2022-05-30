@@ -4,8 +4,8 @@
 </p>
 O problema de negócio e a empresa 'House Rocket' são fictícios, os dados foram retirados do https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
-# Descricao do projeto e do problema de negocio 
- House Rocket é uma empresa sediada em  Seattle - USA, seu bussines é comprar imóveis e vender por um preço superior, o principal desafio é encontrar boas oportunidades.  
+# Descricao do projeto e do problema de negócio 
+ House Rocket é uma empresa sediada em  Seattle - USA, seu business é comprar imóveis e vender por um preço superior, o principal desafio é encontrar boas oportunidades.  
 Boas oportunidades são:  boas casas em ótimas localizações com preços baixos. Quanto maior a diferença entre o preço de aquisição e o preço de venda, maior o lucro.  
 O desafio é que as casas possuem vários atributos, o que as tronam mais ou menos atrativas, assim como a localização que as fazem serem mais ou menos valorizadas.  
 ## Perguntas que deverão ser respondidas:
@@ -50,7 +50,7 @@ Kaggle https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885
 
 **- Testar as hipóteses**  
 
-**- Responder as perguntas de negocio**  
+**- Responder as perguntas de negócio**  
 
 **- Criação do [APP](https://dashboard.heroku.com/apps/analytics-house-rocket-john)**    
   
