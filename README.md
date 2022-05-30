@@ -52,7 +52,7 @@ Kaggle https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885
 
 **- Responder as perguntas de negócio**  
 
-**- Criação do [APP](https://dashboard.heroku.com/apps/analytics-house-rocket-john)**    
+**- Criação do [APP](https://analytics-house-rocket-john.herokuapp.com/)**    
   
 **- Conclusão**    
 
